@@ -1,0 +1,16 @@
+question,optionA,optionB,optionC,optionD,answer
+"在 p5.js 中，哪一個函式會在程式開始時執行一次？","draw()","setup()","start()","begin()",B
+"在 p5.js 中，哪一個函式會持續重複執行？","loop()","repeat()","draw()","update()",C
+"下列哪一個指令可以建立畫布？","createCanvas(400, 400)","makeCanvas(400, 400)","canvas(400, 400)","newCanvas(400, 400)",A
+"在 p5.js 中，哪一個指令可以設定背景顏色？","fill()","background()","color()","bg()",B
+"下列哪一個指令可以畫出圓形？","circle()","ellipse()","round()","oval()",B
+"在 p5.js 中，哪一個指令可以設定填色？","stroke()","fill()","line()","colorMode()",B
+"下列哪一個指令可以設定線條顏色？","stroke()","fill()","background()","weight()",A
+"在 p5.js 中，哪一個指令可以設定線條粗細？","lineSize()","strokeWeight()","weight()","thickness()",B
+"下列哪一個指令可以畫出矩形？","square()","box()","rect()","rectangle()",C
+"在 p5.js 中，哪一個指令可以畫出直線？","line()","path()","segment()","drawLine()",A
+"下列哪一個指令可以停止 draw() 持續執行？","stopDraw()","noLoop()","pause()","halt()",B
+"在 p5.js 中，哪一個變數代表畫布寬度？","canvasWidth","screenWidth","width","windowWidthOnly",C
+"下列哪一個函式可以取得滑鼠目前的水平座標？","mouseY","cursorX","mouseX","pointerX",C
+"在 p5.js 中，哪一個函式可以設定角度模式？","angleMode()","rotateMode()","setAngle()","degreeMode()",A
+"下列哪一個函式可以將圖形向右旋轉？","turn()","rotate()","spin()","angle()",B
